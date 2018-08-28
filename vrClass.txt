@@ -1,0 +1,38 @@
+﻿var vrClass={
+   {
+      "className"："静夜思"，
+      "member":"  李冉、涂佳佳、李婷、张婷、张三、李四、王小明、张三丰、黎明",
+      "categories":"我的作品"，
+      "createTime":2018.07.14
+  },
+  {
+      "className"："红军长征"，
+      "member":"王小明、张三丰、黎明",
+      "categories":"班级作品"，
+      "createTime":2018.07.14
+  },
+  {
+      "className"："活字印刷术"，
+      "member":"  李冉、涂佳佳、李婷、张明、张三丰、黎明",
+      "categories":"我的作品"，
+      "createTime":2018.07.14
+  },
+  {
+      "className"："郑和下西洋"，
+      "member":"  李冉、涂佳佳、李婷、张婷、黎明",
+      "categories":"我的作品"，
+      "createTime":2018.07.14
+  },
+  {
+      "className"："我的梦想"，
+      "member":"  李冉、涂佳佳、王小明、张三丰、黎明",
+      "categories":"我的作品"，
+      "createTime":2018.07.14
+  },
+  {
+      "className"："静夜思"，
+      "member":"  李冉、涂佳佳、李婷、张婷、张三、李四、王小明、张三丰、黎明",
+      "categories":"我的作品"，
+      "createTime":2018.07.14
+  },
+}
